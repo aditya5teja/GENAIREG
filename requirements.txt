@@ -1,6 +1,7 @@
-Flask==2.1.1
-qrcode==7.3.1
-python-dotenv==1.0.0
-requests==2.27.1
-pymongo==4.4.0
-pillow==10.0.0
+Flask
+requests
+qrcode
+Pillow
+python-dotenv
+pymongo
+waitress
